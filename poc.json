@@ -1,10 +1,10 @@
 {
-    "url": "https://mrknight-n1du.github.io/https-mrknight-n1du.github.io/test.yaml",
+    "url": "https://mrknight-n1du.github.io/pocbymrknightnidu/pocbynidu.yaml",
     "urls": [{
-        "url": "https://mrknight-n1du.github.io/https-mrknight-n1du.github.io/test.yaml",
+        "url": "https://mrknight-n1du.github.io/pocbymrknightnidu/pocbynidu.yaml",
         "name": "Foo"
     },{
-        "url": "https://mrknight-n1du.github.io/https-mrknight-n1du.github.io/test.yaml",
+        "url": "https://mrknight-n1du.github.io/pocbymrknightnidu/pocbynidu.yaml",
         "name": "Foo2"
     }]
 }
