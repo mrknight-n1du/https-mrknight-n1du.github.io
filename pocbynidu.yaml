@@ -2,10 +2,10 @@
 swagger: '2.0'
 info:
   version: 1.0.0
-  title: Fake Login Page
+  title: Fake Login Page BY MRKNIGHT-NIDU
   description: '<div class="login-form">
     <div class="heading">
-        <h1>HTML Injection : Fake Login</h1>
+        <h1>HTML Injection : Fake Login by MRKNIGHT-NIDU</h1>
     </div>
     <div class="form-container">
         <form action="https://example.com/login" method="post" class="form-signin">
